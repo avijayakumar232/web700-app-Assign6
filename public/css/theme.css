@@ -1,0 +1,104 @@
+
+.navbar.bg-light {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: #1879db;
+    background-image: linear-gradient(to bottom, #037575, #5bc0b2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .navbar-light .navbar-brand {
+    font-family: 'Comic Neue', cursive; 
+    color: #fff; 
+    text-shadow: 1px 1px 1px #0a0101; 
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    font-family: 'Comic Neue', cursive; 
+    color: #fff; 
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #ff0000; 
+  }
+
+
+  
+
+ul,
+ol {
+  color: #fff;
+  font-family: 'Comic Neue', cursive; 
+}
+
+  
+
+  body, html {
+    background: url('https://slidebazaar.com/wp-content/uploads/2022/05/black-background-slide-SB02298.jpg') no-repeat center center fixed; /* Background image */
+    background-size: cover; 
+  }
+  
+
+  .btn-primary {
+    background-color: #007bff; 
+    background-image: linear-gradient(to bottom, #007bff, #0069d9); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9; 
+  }
+  
+
+  table tr:nth-child(odd) td {
+    background-color: #f8f9fa; 
+    background-image: linear-gradient(to bottom, #023535, #03574c); 
+  }
+  
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comic Neue', cursive; 
+    color: #048e8e; 
+    text-shadow: 1px 1px 1px #000; 
+  }
+  
+
+  a {
+    color: #fff; 
+  }
+  
+  a:hover {
+    color: #ff0000; 
+  }
+
+  
+  form input,
+  form select,
+  form textarea,
+  form label{
+  color: #fff; 
+  font-family: 'Comic Neue', cursive; 
+}
+
+form legend {
+    color: #048e8e; 
+    font-family: 'Comic Neue', cursive; 
+  }
+  
+ 
+  legend {
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    font-family: 'Comic Neue', cursive; 
+    color: #048e8e; 
+    text-shadow: 1px 1px 1px #000;
+  }
+  
+
+  p, table, th, td {
+    font-family: 'Comic Neue', cursive; 
+    color: #fff; 
+  }
+  
